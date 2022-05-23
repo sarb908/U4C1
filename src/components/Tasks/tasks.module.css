@@ -1,0 +1,11 @@
+.tasks {
+  /* sample */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.empty {
+  /* sample */
+  text-align: center;
+}
